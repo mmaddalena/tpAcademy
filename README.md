@@ -96,3 +96,10 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+## Author
+
+**Martin Andres Maddalena** | Software Engineer
+
+- GitHub: [@mmaddalena](https://github.com/mmaddalena)
+- LinkedIn: [Martin Andres Maddalena](https://www.linkedin.com/in/martin-maddalena/)
