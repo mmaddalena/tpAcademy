@@ -1,0 +1,1 @@
+This is a project initialized using NestJS with the goal of practicing Git skills.
